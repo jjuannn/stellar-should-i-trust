@@ -1,4 +1,4 @@
-# Should i trust?
+# Should I Trust?
 
 Application to check which Stellar accounts are trustables using Stellar Expert API.
 
